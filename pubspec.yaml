@@ -18,7 +18,7 @@ dependencies:
   google_sign_in: ^6.3.0
 
   # dotenv
-  flutter_dotenv: ^6.1.0
+  flutter_dotenv: 6.0.0
 
   # State Management
   bloc: ^8.1.4
