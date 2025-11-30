@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199084862766",
+    "project_id": "heritage-db37e",
+    "storage_bucket": "heritage-db37e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199084862766:android:21a35869490d82d1385ebf",
+        "android_client_info": {
+          "package_name": "com.example.coursehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5proQdoHj-knDWn_AwUCwYPsykz_nHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
